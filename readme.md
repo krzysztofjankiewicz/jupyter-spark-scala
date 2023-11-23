@@ -1,3 +1,5 @@
+Dockerfile based on jupyter/all-spark-notebook:latest with Apache Toree kernel to Scala support
+
 You can create the image as follows
 
 ```
