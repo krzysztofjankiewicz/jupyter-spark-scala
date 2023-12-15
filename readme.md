@@ -3,7 +3,7 @@ Dockerfile based on jupyter/all-spark-notebook:latest with Apache Toree kernel t
 You can create the image as follows
 
 ```
-docker build -t jupyter-spark-scala:0.1 .
+docker build -t jupyter-spark-scala-11:23.12 .
 ```
 
 then you can create and start the container
